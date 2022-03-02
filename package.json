@@ -1,0 +1,33 @@
+{
+  "name": "summitech",
+  "version": "1.0.0",
+  "description": "Creae wallet , send money , and receive  money at ease",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeisbright/wallet-api.git"
+  },
+  "keywords": [
+    "Wallet",
+    "Creation",
+    "Wallet",
+    "Management",
+    "Online",
+    "Money",
+    "Transfer",
+    "Finance",
+    "Management",
+    "Nodejs",
+    "Typescript",
+    "MongoDB"
+  ],
+  "author": "Adeleke Bright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adeisbright/wallet-api/issues"
+  },
+  "homepage": "https://github.com/adeisbright/wallet-api#readme"
+}
